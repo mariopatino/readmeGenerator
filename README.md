@@ -1,8 +1,8 @@
-# **quewieiqo**
+# **Node.js Professional README Generator**
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-qiouewqoiue
+This command line application can quickly and easily create a README. This allows the project creator to devote more time to working on the project.
 
    
 ## Table of Contents
@@ -19,28 +19,28 @@ qiouewqoiue
 
 
 ## Description
-    qiouewqoiue
+    This command line application can quickly and easily create a README. This allows the project creator to devote more time to working on the project.
 
 ## Motivation
-    quwewiqeuqo
+    When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
 ## Usage
-    qiuwqiueo
+    Helping programmer to focus on coding and use a standard and profetional README.md file generation
 
 ## Contributor
-    uqeiowqueiwoq
+    Tec bootcamp coding
 
 ## License
     MIT
 
 ## Installation
-    qiueowqueioq
+    npm install
 
 ## Test
-    qowueqwoieu
+    node index.js
 
 ## Autor
     For any question or inquiery
-* GitHub: [qioweuwqo](https://github.com/qioweuwqo)
+* GitHub: [mariopatino](https://github.com/mariopatino)
 
     
